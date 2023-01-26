@@ -7,4 +7,4 @@ Scientific Computing team.
 I'm a systems administrator/devops engineer, interested in running great
 scientific services that make climate-science easier for our researchers.
 
-On the web, my website is <a href='https://jph.im'>jph.im</a>, and I'm also on Mastodon: https://hachyderm.io/@jph.
+On the web, my website is <a href='https://jph.im'>jph.im</a>, and I'm also on Mastodon: <A href='nofollow; me'>https://hachyderm.io/@jph</a>.
